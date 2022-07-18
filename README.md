@@ -1,5 +1,5 @@
 # Absolute Commander
-Absolute Commander is a Total Commander like app that is free and open source.
+Absolute Commander is a Total Commander like program that is free and open source.
 
 ### Why Absolute Commander?
 - It is Free/Libre and Open Source Software
